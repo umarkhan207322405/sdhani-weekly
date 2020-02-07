@@ -58,6 +58,9 @@ baseurl: "/sdhani-weekly"
 #   (but you may, if you know what you are doing)
 #
 
+plugins:
+  - jemoji
+  
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
