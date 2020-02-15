@@ -23,6 +23,5 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
-|     |     |     |      |
+| 3 | [Added two stores to the map.](https://www.openstreetmap.org/changeset/81029285#map=19/40.69291/-73.80902)    | OpenStreet Map feature |  Added a convenience store and variety store to the map. Updated building to reflect two distinct stores. |
+
