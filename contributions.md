@@ -24,4 +24,5 @@ following the same syntax.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | 3 | [Added two stores to the map.](https://www.openstreetmap.org/changeset/81029285#map=19/40.69291/-73.80902)    | OpenStreet Map feature |  Added a convenience store and variety store to the map. Updated building to reflect two distinct stores. |
+| 3 | [Updated store closing](https://www.openstreetmap.org/changeset/81029469#map=19/40.70122/-73.80756)    | OpenStreet Map feature | Updated store status to retail space. Removed fast food chain from location. |
 
