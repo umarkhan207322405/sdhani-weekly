@@ -31,5 +31,6 @@ following the same syntax.
 | 4 | [Added furniture store to the map, added a name to an unmarked building](https://www.openstreetmap.org/changeset/81367814) | OpenStreetMap | Added additional space for a furniture store to the map. |
 | 4 | [Added deli to the map](https://www.openstreetmap.org/changeset/81367919) | OpenStreetMap | Added a local deli and convenience store to the map. |
 | 4 | [Added variety store point to the map.](https://www.openstreetmap.org/changeset/81367968) | OpenStreetMap | Added a "Dollar Tree" location to the map. |
+| 4 | [Pull Request for some rephrasing suggestions to a peer's blog.](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/pull/1) | Blog Edit | Added a few rephrasing suggestions to a peer's blog. |
 
 
