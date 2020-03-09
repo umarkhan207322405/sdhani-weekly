@@ -33,5 +33,6 @@ following the same syntax.
 | 4 | [Added variety store point to the map.](https://www.openstreetmap.org/changeset/81367968) | OpenStreetMap feature | Added a "Dollar Tree" location to the map. |
 | 4 | [Pull Request for some rephrasing suggestions to a peer's blog.](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/pull/1) | Blog Edit | Added a few rephrasing suggestions to a peer's blog. |
 | 5 | [Phrase Suggestion](https://github.com/hunter-college-ossd-spr-2020/gillybytes-weekly/pull/1) | Blog Edit | Suggested a rephrasing of a thought for a fellow peer's blog. |
+| 6 | [Updated shoe store name to the map.](https://www.openstreetmap.org/changeset/81937781#map=19/40.70189/-73.80753) | OpenStreetMap feature | Changed a shoe store status after the previous establishment went out of business. |
 
 
