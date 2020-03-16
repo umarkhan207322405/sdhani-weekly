@@ -29,10 +29,13 @@ following the same syntax.
 | 4 | [Added new hotel building to the map](https://www.openstreetmap.org/changeset/81367706) | OpenStreetMap feature | Added a new "Comfort Inn" location to the map |
 | 4 | [Added furniture store to the map](https://www.openstreetmap.org/changeset/81367792) | OpenStreetMap feature | Added an exotic lighting and furniture store to the map. |
 | 4 | [Added furniture store to the map, added a name to an unmarked building](https://www.openstreetmap.org/changeset/81367814) | OpenStreetMap feature | Added additional space for a furniture store to the map. |
-| 4 | [Added deli to the map](https://www.openstreetmap.org/changeset/81367919) | OpenStreetMap | Added a local deli and convenience store to the map. |
+| 4 | [Added deli to the map](https://www.openstreetmap.org/changeset/81367919) | OpenStreetMap feature| Added a local deli and convenience store to the map. |
 | 4 | [Added variety store point to the map.](https://www.openstreetmap.org/changeset/81367968) | OpenStreetMap feature | Added a "Dollar Tree" location to the map. |
 | 4 | [Pull Request for some rephrasing suggestions to a peer's blog.](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/pull/1) | Blog Edit | Added a few rephrasing suggestions to a peer's blog. |
 | 5 | [Phrase Suggestion](https://github.com/hunter-college-ossd-spr-2020/gillybytes-weekly/pull/1) | Blog Edit | Suggested a rephrasing of a thought for a fellow peer's blog. |
 | 6 | [Updated shoe store name to the map.](https://www.openstreetmap.org/changeset/81937781#map=19/40.70189/-73.80753) | OpenStreetMap feature | Changed a shoe store status after the previous establishment went out of business. |
-
+| 7 | [Added name to historic church on the map.](https://www.openstreetmap.org/changeset/82230242) | OpenStreetMap feature | Added name to local historic church. |
+| 7 | [Modified historic church's gardenscape.](https://www.openstreetmap.org/changeset/82230172#map=19/40.70379/-73.80111) | OpenStreetMap feature | Modified historic church's gardenscape. |
+| 7 | [Pull request for project evaluation.](https://github.com/nyu-ossd-s20/project-evaluation/pull/82) | Project Contribution | Submitted a project evaluation for the Ember.js project to the nyu-ossd-s20/project-evaluations repository. |
+| 7 | [Pull request for 2 sentence restructuring suggestions](https://github.com/hunter-college-ossd-spr-2020/jaredwils-weekly/pull/3) | Blog Edit | Suggested a sentence rephrasing and a combined sentence pairing. |
 
