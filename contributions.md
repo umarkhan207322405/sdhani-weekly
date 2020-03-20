@@ -39,3 +39,4 @@ following the same syntax.
 | 7 | [Pull request for project evaluation.](https://github.com/nyu-ossd-s20/project-evaluation/pull/82) | Project Contribution | Submitted a project evaluation for the Ember.js project to the nyu-ossd-s20/project-evaluations repository. |
 | 7 | [Pull request for 2 sentence restructuring suggestions](https://github.com/hunter-college-ossd-spr-2020/jaredwils-weekly/pull/3) | Blog Edit | Suggested a sentence rephrasing and a combined sentence pairing. |
 | 8 | [Pull request for removed prompt logic](https://github.com/hunter-college-ossd-spr-2020/wongjessica-weekly/pull/2) | Blog Edit | Removed prompt logic left behind in a week 7 post. |
+| 8 | [Pull request for suggested changes to sentence structuring and word usage](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/pull/7) | Blog Edit | Added some suggestions to sentence structure and word usage to an introduction for a week 5 post. Also suggested some grammatical edits. |
