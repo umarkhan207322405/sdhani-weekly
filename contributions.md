@@ -23,9 +23,9 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| 3 | [Added two stores to the map.](https://www.openstreetmap.org/changeset/81029285#map=19/40.69291/-73.80902)    | OpenStreet Map feature |  Added a convenience store and variety store to the map. Updated building to reflect two distinct stores. |
-| 3 | [Updated store closing.](https://www.openstreetmap.org/changeset/81029469#map=19/40.70122/-73.80756)    | OpenStreet Map feature | Updated store status to retail space. Removed fast food chain from location. |
-| 3 | [Updated store closings, added retail space.](https://www.openstreetmap.org/changeset/81029588#map=19/40.70581/-73.79338) | OpenStreet Map feature | Updated clothing store closing. Updated restaurant closing. |
+| 3 | [Added two stores to the map.](https://www.openstreetmap.org/changeset/81029285#map=19/40.69291/-73.80902)    | OpenStreetMap feature |  Added a convenience store and variety store to the map. Updated building to reflect two distinct stores. |
+| 3 | [Updated store closing.](https://www.openstreetmap.org/changeset/81029469#map=19/40.70122/-73.80756)    | OpenStreetMap feature | Updated store status to retail space. Removed fast food chain from location. |
+| 3 | [Updated store closings, added retail space.](https://www.openstreetmap.org/changeset/81029588#map=19/40.70581/-73.79338) | OpenStreetMap feature | Updated clothing store closing. Updated restaurant closing. |
 | 4 | [Added new hotel building to the map](https://www.openstreetmap.org/changeset/81367706) | OpenStreetMap feature | Added a new "Comfort Inn" location to the map |
 | 4 | [Added furniture store to the map](https://www.openstreetmap.org/changeset/81367792) | OpenStreetMap feature | Added an exotic lighting and furniture store to the map. |
 | 4 | [Added furniture store to the map, added a name to an unmarked building](https://www.openstreetmap.org/changeset/81367814) | OpenStreetMap feature | Added additional space for a furniture store to the map. |
