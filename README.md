@@ -1,4 +1,4 @@
-### Open Source Software Development Blog
+### Open Source Software Development Blog :tada:
 
 > This repository belongs to sdhani and contains weekly blogs written by sdhani for a course in Open Source software development. 
 
