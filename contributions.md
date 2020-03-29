@@ -23,9 +23,9 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| 3 | [Added two stores to the map.](https://www.openstreetmap.org/changeset/81029285#map=19/40.69291/-73.80902)    | OpenStreet Map feature |  Added a convenience store and variety store to the map. Updated building to reflect two distinct stores. |
-| 3 | [Updated store closing.](https://www.openstreetmap.org/changeset/81029469#map=19/40.70122/-73.80756)    | OpenStreet Map feature | Updated store status to retail space. Removed fast food chain from location. |
-| 3 | [Updated store closings, added retail space.](https://www.openstreetmap.org/changeset/81029588#map=19/40.70581/-73.79338) | OpenStreet Map feature | Updated clothing store closing. Updated restaurant closing. |
+| 3 | [Added two stores to the map.](https://www.openstreetmap.org/changeset/81029285#map=19/40.69291/-73.80902)    | OpenStreetMap feature |  Added a convenience store and variety store to the map. Updated building to reflect two distinct stores. |
+| 3 | [Updated store closing.](https://www.openstreetmap.org/changeset/81029469#map=19/40.70122/-73.80756)    | OpenStreetMap feature | Updated store status to retail space. Removed fast food chain from location. |
+| 3 | [Updated store closings, added retail space.](https://www.openstreetmap.org/changeset/81029588#map=19/40.70581/-73.79338) | OpenStreetMap feature | Updated clothing store closing. Updated restaurant closing. |
 | 4 | [Added new hotel building to the map](https://www.openstreetmap.org/changeset/81367706) | OpenStreetMap feature | Added a new "Comfort Inn" location to the map |
 | 4 | [Added furniture store to the map](https://www.openstreetmap.org/changeset/81367792) | OpenStreetMap feature | Added an exotic lighting and furniture store to the map. |
 | 4 | [Added furniture store to the map, added a name to an unmarked building](https://www.openstreetmap.org/changeset/81367814) | OpenStreetMap feature | Added additional space for a furniture store to the map. |
@@ -40,5 +40,5 @@ following the same syntax.
 | 7 | [PR for 2 sentence restructuring suggestions](https://github.com/hunter-college-ossd-spr-2020/jaredwils-weekly/pull/3) | Blog Edit | Suggested a sentence rephrasing and a combined sentence pairing. |
 | 8 | [PR for removed prompt logic](https://github.com/hunter-college-ossd-spr-2020/wongjessica-weekly/pull/2) | Blog Edit | Removed prompt logic left behind in a week 7 post. |
 | 8 | [PR for suggested changes to sentence structuring and word usage](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/pull/7) | Blog Edit | Added some suggestions to sentence structure and word usage to an introduction for a week 5 post. Also suggested some grammatical edits. |
-| 8 | [Edited the Cosmological Constant Wikipedia article](https://en.wikipedia.org/w/index.php?title=Cosmological_constant&oldid=946877512) | Wikipedia Contribution | Removed unsubstantiated sentence on dark energy and how it relates to the cosmological constant. It didn't satisfy Wikipedia's [Verifiability](https://en.wikipedia.org/wiki/Wikipedia:Verifiability) needs. |
+| 8 | [Edited the Cosmological Constant Wikipedia article](https://en.wikipedia.org/w/index.php?title=Cosmological_constant&diff=prev&oldid=946877512) | Wikipedia Contribution | Removed unsubstantiated sentence on dark energy and how it relates to the cosmological constant. It didn't satisfy Wikipedia's [Verifiability](https://en.wikipedia.org/wiki/Wikipedia:Verifiability) needs. |
 | 9 | [Added secondary source citation to the Edible Water Bottle article](https://en.wikipedia.org/w/index.php?title=Edible_water_bottle&diff=prev&oldid=947377286) | Wikipedia Contribution | Added secondary source citation for crediting Skipping Rocks Lab invention. Made a minor grammatical edit. |
