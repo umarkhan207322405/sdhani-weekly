@@ -47,3 +47,5 @@ following the same syntax.
 | 9 | [Added gem plugin to config file](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/11) | Blog Edit | Edited config.yml file. Added emoji-support for Liulanz's blog :sparkles: |
 | 9 | [Edits to King Manor article](https://en.wikipedia.org/w/index.php?title=King_Manor&diff=prev&oldid=948073836) | Wikipedia Contribution | Made a few grammatical edits to the first two sentences in the summary section to the King Manor article. |
 | 9 | [Edits to Sewing Machine article](https://en.wikipedia.org/w/index.php?title=Sewing_machine&diff=prev&oldid=948082745) | Wikipedia Contribution | Rephrased some sentences on home sewing machines versus the modern sewing machine. Removed an unnecessary comma. |
+| 10 | [PR to minor grammatical edits](https://github.com/hunter-college-ossd-spr-2020/Mtarek7900-weekly/pull/4) | Blog Edit | Minor grammatical edits to first sentence of a week 08 blog. |
+| 10 | [PR to minor typo edit](https://github.com/hunter-college-ossd-spr-2020/Nannaquin-weekly/pull/4) | Blog Edit | Fixed a minor typo in a week 08 blog. |
