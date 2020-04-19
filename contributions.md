@@ -51,3 +51,6 @@ following the same syntax.
 | 10 | [PR to minor typo edit](https://github.com/hunter-college-ossd-spr-2020/Nannaquin-weekly/pull/4) | Blog Edit | Fixed a minor typo in a week 08 blog. |
 | 10 | [Capitalized section headings](https://en.wikipedia.org/w/index.php?title=Therianthropy&diff=prev&oldid=949843480) | Wikipedia Contribution | Capitalized section headings in Therianthropy wiki-article. |
 | 10 | [Expanded Animal Spirits section](https://en.wikipedia.org/w/index.php?title=Therianthropy&diff=prev&oldid=949850656) | Wikipedia Contribution | Expanded the section on Animal Spirits by adding linguistic translations to the terms referencing cultural beliefs of the Solomon Islands in Melanesia for the Therianthropy wiki-article. |
+| 10 | [Minor grammar suggestions](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/pull/6) | Blog Edit | Suggested some phrase changes |
+| 10 | [Minor grammar suggestions](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/9) | Blog Edit | Suggested some phrase changes, fixed a typo |
+| 10 | [with-docker typo fix](https://github.com/zeit/next.js/pull/11760) | Next.js Contribution | Grammar fix in the with-docker Next.js example README file. |
